@@ -11,7 +11,7 @@ Created an application that generates a random password based on user-selected c
 * JavaScript
 
 ## Website
-https://marcysko.github.io/WK02CSSPortfolio/
+https://marcysko.github.io/wk03PasswordGenerator/
 
 
 ## Contribution
